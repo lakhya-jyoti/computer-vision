@@ -1,1 +1,1 @@
-# computer-vision-basics
+# computer-vision
